@@ -1,0 +1,6 @@
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\bin\Debug\GetUniqueModifiedStrings.exe
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\bin\Debug\GetUniqueModifiedStrings.pdb
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\obj\Debug\GetUniqueModifiedStrings.csprojAssemblyReference.cache
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\obj\Debug\GetUniqueModifiedStrings.csproj.CoreCompileInputs.cache
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\obj\Debug\GetUniqueModifiedStrings.exe
+d:\Kolbasyuk\Prog\VS\GitHubProjects\Exercises\GetUniqueModifiedStrings\obj\Debug\GetUniqueModifiedStrings.pdb
